@@ -18,7 +18,7 @@ npm run server
 # Roda o cliente
 npm run client
 
-# Server roda na porta http://localhost:8080 e o cliente na http://localhost:3000 (apenas para desenvolvimento)
+# Server roda na porta http://localhost:8080 e o cliente na http://localhost:3000 (o cliente não é necessário rodar junto na versão de produção apenas na de desenvolvimento)
 ```
 
 ## App Info
