@@ -1,4 +1,4 @@
-# Hoof
+# React Express Starter Pack
 
 ## Tutorial
 
