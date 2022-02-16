@@ -22,7 +22,8 @@ npm run client
 ```
 
 ## App Info
-
+ Pacote React de front (client side) e Node Express no backend a idéia é um aplicativo de uma tela só renderizado pelo cliente não pelo servido.
+  
 ### Author
 
 Tupynambá Lucas
